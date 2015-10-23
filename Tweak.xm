@@ -6,9 +6,10 @@
 }
  
 
-- (_Bool)isAnimationAllowed {
-    %orig;
-	return false;
-}
+// needs testing:
+//- (_Bool)isAnimationAllowed {
+//   %orig;
+//	return false;
+//}
 
 %end
