@@ -1,0 +1,9 @@
+Package: com.posdorfer.noliveclock
+Name: NoLiveClock
+Depends: mobilesubstrate
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: Removes the live clock animation
+Maintainer: wolfposd
+Author: wolfposd
+Section: Tweaks
