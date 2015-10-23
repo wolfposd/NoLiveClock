@@ -1,4 +1,6 @@
 ARCHS = armv7 armv7s arm64
+DEBUG = 0
+FORRELEASE = 0
 include theos/makefiles/common.mk
 
 TWEAK_NAME = NoLiveClock
